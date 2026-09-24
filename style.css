@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+.hero-heading {
+  text-transform: uppercase;
+}
+
+.hero-text {
+  word-spacing: 2px;
+}
